@@ -1,2 +1,2 @@
 Dieses Projekt beschreibt die Bergtouren der Rudergruppe.
-<a href=src/index.html>
+[Project](http://href="https://github.com/DXCTho/bwf-frontend/tree/master/src/index.html)
