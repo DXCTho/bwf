@@ -1,0 +1,1 @@
+Dieses Projekt beschreibt die Bergtouren der Rudergruppe
